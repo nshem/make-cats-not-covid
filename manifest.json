@@ -1,7 +1,10 @@
 {
-  "name": "Getting Started Example",
+  "name": "make cats not covid",
   "version": "1.0",
-  "description": "MAKE CATS NOT COVID",
+  "description": "drunkathon pilot project",
+  "permissions": [
+    "storage"
+  ],
   "background": {
     "scripts": [
       "main.js"
