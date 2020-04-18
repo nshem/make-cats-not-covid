@@ -8,3 +8,5 @@ chrome://extensions/ -> v developers mode -> load unpacked
 stuff for latez:
 -[ ] user interface
 
+bugs:
+- [ ] some facebook pictures and links are broken
